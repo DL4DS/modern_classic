@@ -4,11 +4,11 @@ The foundational neural network models—Perceptron, ADALINE, Hopfield Networks,
 
 The foundational papers on the Perceptron [55†source], Hopfield Networks [54†source], and Boltzmann Machines [53†source] introduced theoretical models but lacked reproducible code and practical implementations due to computational constraints of their time. While modern efforts have revisited these models, comprehensive implementations with large-scale datasets remain limited. This project bridges the gap by reimplementing these classic models using contemporary tools such as NumPy for numerical computations, Pandas for dataset management, Matplotlib for visualization, and Scikit-learn for data preprocessing and performance evaluation.
 
-Perceptrón by Frank Rosenblatt (1928 - 1969)
+1] Perceptrón by Frank Rosenblatt (1928 - 1969)
 
-Probabilistic neural network and the polynomial ADALINE techniques.
+2] Probabilistic neural network and the polynomial ADALINE techniques.
 
-Neural networks and physical systems with emergent collective computationalabilities - J.J.HOPFIELD
+3] Neural networks and physical systems with emergent collective computationalabilities - J.J.HOPFIELD
 
-A LearningAlgorithm for Boltzmann Machines by  DAVID H. ACKLEY,  GEOFFREY E. HINTON, TERRENCE J. SEJNOWSKi
+4] A LearningAlgorithm for Boltzmann Machines by  DAVID H. ACKLEY,  GEOFFREY E. HINTON, TERRENCE J. SEJNOWSKi
 
