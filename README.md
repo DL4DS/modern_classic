@@ -12,3 +12,12 @@ The foundational papers on the Perceptron [55â€ source], Hopfield Networks [54â€
 
 4] A LearningAlgorithm for Boltzmann Machines by  DAVID H. ACKLEY,  GEOFFREY E. HINTON, TERRENCE J. SEJNOWSKi
 
+## Setup
+
+Create a virtual environment and install the dependencies.
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
